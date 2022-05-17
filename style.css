@@ -1,0 +1,24 @@
+.calculator {
+    width: 260px;
+    border: solid black ;
+}
+.title {
+    margin-bottom: 10px;
+    text-align: center;
+    width: 240px;
+    font-size: 20px;
+    border: solid black 10px;
+}
+
+input[type="button"] {
+    background-color: grey;
+    color: black;
+    border: solid black 5px;
+    width: 100%
+}
+
+input[type="text"] {
+    background-color: white;
+    border: solid black 5px;
+    width: 200px;
+}
